@@ -1,0 +1,73 @@
+<?php
+/*
+ * Your installation or use of this SugarCRM file is subject to the applicable
+ * terms available at
+ * http://support.sugarcrm.com/Resources/Master_Subscription_Agreements/.
+ * If you do not agree to all of the applicable terms or do not have the
+ * authority to bind the entity as an authorized representative, then do not
+ * install or use this SugarCRM file.
+ *
+ * Copyright (C) SugarCRM Inc. All rights reserved.
+ */
+$mod_strings = array (
+  'LBL_TEAM' => 'Team',
+  'LBL_TEAMS' => 'Team',
+  'LBL_TEAM_ID' => 'Team Id',
+  'LBL_ASSIGNED_TO_ID' => 'Tildelt bruker Id',
+  'LBL_ASSIGNED_TO_NAME' => 'Tildelt til',
+  'LBL_TAGS_LINK' => 'Etiketter',
+  'LBL_TAGS' => 'Etiketter',
+  'LBL_ID' => 'ID',
+  'LBL_DATE_ENTERED' => 'Opprettet dato',
+  'LBL_DATE_MODIFIED' => 'Endret Dato',
+  'LBL_MODIFIED' => 'Endret av',
+  'LBL_MODIFIED_ID' => 'Endret av Id',
+  'LBL_MODIFIED_NAME' => 'Endret av Navn',
+  'LBL_CREATED' => 'Opprettet av',
+  'LBL_CREATED_ID' => 'Opprettet av Id',
+  'LBL_DOC_OWNER' => 'Dokumenteier',
+  'LBL_USER_FAVORITES' => 'Brukere som favoriserer',
+  'LBL_DESCRIPTION' => 'Beskrivelse',
+  'LBL_DELETED' => 'Slettet',
+  'LBL_NAME' => 'Navn',
+  'LBL_CREATED_USER' => 'Opprettet av bruker',
+  'LBL_MODIFIED_USER' => 'Endret av bruker',
+  'LBL_LIST_NAME' => 'Navn',
+  'LBL_EDIT_BUTTON' => 'Rediger',
+  'LBL_REMOVE' => 'Fjern',
+  'LBL_EXPORT_MODIFIED_BY_NAME' => 'Endret av Navn',
+  'LBL_LIST_FORM_TITLE' => 'Integraciones Liste',
+  'LBL_MODULE_NAME' => 'Integraciones',
+  'LBL_MODULE_TITLE' => 'Integraciones',
+  'LBL_MODULE_NAME_SINGULAR' => 'Integración',
+  'LBL_HOMEPAGE_TITLE' => 'Min Integraciones',
+  'LNK_NEW_RECORD' => 'Opprett Integración',
+  'LNK_LIST' => 'Vis Integraciones',
+  'LNK_IMPORT_ENT_INTEGRATOR' => 'Importar Integraciones',
+  'LBL_SEARCH_FORM_TITLE' => 'Søk Integración',
+  'LBL_HISTORY_SUBPANEL_TITLE' => 'Historie',
+  'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Aktivitetstrøm',
+  'LBL_ENT_INTEGRATOR_SUBPANEL_TITLE' => 'Integraciones',
+  'LBL_NEW_FORM_TITLE' => 'Ny Integración',
+  'LNK_IMPORT_VCARD' => 'Importar Integración vCard',
+  'LBL_IMPORT' => 'Importar Integraciones',
+  'LBL_IMPORT_VCARDTEXT' => 'Automatically create a new Integración record by importing a vCard from your file system.',
+  'LBL_DATA_ENCRYPT_TXF' => 'Data Encrypt',
+  'LBL_KEY_TXF' => 'Key',
+  'LBL_MODULE_TCF' => 'Módulo',
+  'LBL_MODULE_TXF' => 'Módulo',
+  'LBL_KEYS_TXA' => 'Campos Llave',
+  'LBL_FIELDS_XML_TXF' => 'Campos XML',
+  'LBL_FIELDS_MODULE_TXF' => 'Campos sugar',
+  'LBL_DATA_MAPPING_TXA' => 'Mapeo',
+  'LBL_OUTPUT_TXA' => 'Salida',
+  'LBL_DATA_ENCRYPT_TXA' => 'Data Encrypt',
+  'LBL_PROCESSING_ORDER_TXF' => 'Orden de Procesamiento',
+  'LBL_STATUC_CHK' => 'Status',
+  'LBL_FLAG_EXECUTE_CHK' => 'Ejecuta',
+  'LBL_METHOD_TXF' => 'Método',
+  'LBL_URL_TXF' => 'URL',
+  'LBL_TYPE_TXF' => 'Tipo',
+  'LBL_HEADER_TXA' => 'Header',
+  'LBL_BODY_TXA' => 'Body',
+);
